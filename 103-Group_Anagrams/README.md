@@ -34,3 +34,5 @@ Constraints:
 1 <= strs.length <= 104
 0 <= strs[i].length <= 100
 strs[i] consists of lowercase English letters.
+
+Link: https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/778/
